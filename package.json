@@ -1,0 +1,14 @@
+{
+  "name": "notey",
+  "version": "1.0.0",
+  "description": "Notey app",
+  "main": "index.js",
+  "scripts": {
+    "startall": "concurrently \"cd notey_api && npm run serve\" \"cd notey_fe && npm start\""
+  },
+  "author": "Tamas Batka",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^5.0.0"
+  }
+}
