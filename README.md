@@ -2,7 +2,7 @@
 
 A simple note taking app using Express on the BE and React&Redux on the FE.
 
-#Instructions:
+# Instructions:
 
 1. Install MongoDb
 2. In the notey_api directory create a .env file. Here you can assign the environment variables `MONGODB_URI_LOCAL` for 
@@ -13,12 +13,12 @@ for example:
 
 3. Run `$npm install` in notey_fe and notey_api directories
 
-3.1. Starting everything at once
-  In the main directory run `$npm run startall`
-3.2 Starting BE and FE separately
-  `$cd notey_api`
-  `$npm run serve`
-  `$cd ../notey_fe`
+4. Starting everything at once: 
+  In the main directory run  
+  `$npm run startall`
+  
+5. Starting BE and FE separately:  
+  `$cd notey_api`  
+  `$npm run serve`  
+  `$cd ../notey_fe`  
   `$npm start`
- 
- 
