@@ -13,7 +13,7 @@ for example:
 
 3. Run `$npm install` in notey_fe and notey_api directories
 
-4. Starting everything at once: 
+4. Starting everything at once:  
   In the main directory run  
   `$npm run startall`
   
