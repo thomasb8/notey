@@ -20,5 +20,6 @@ for example:
 5. Starting BE and FE separately:  
   `$cd notey_api`  
   `$npm run serve`  
-  `$cd ../notey_fe`  
+In a separate terminal:  
+  `$cd notey_fe`  
   `$npm start`
